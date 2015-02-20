@@ -1,2 +1,5 @@
 django
 mock
+djangorestframework
+markdown
+django-filter
